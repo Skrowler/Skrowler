@@ -25,3 +25,5 @@
   <img aling="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img aling="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
+
+![Snake animation](https://github.com/Skrowler/Skrowler/blob/output/github-contribution-grid-snake.svg)
