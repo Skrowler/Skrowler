@@ -8,7 +8,7 @@
 
 ##
   
-  ### These are some languages, frameworks and other things that i already know!
+  ### Essas são algumas linguagens, frameworks e outras coisas que ja sei utilizar! 
   
 <div style="display: inline_block"><br/>
   <img aling="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -18,7 +18,7 @@
   <img aling="center" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
  </div>
 
-### These are some languages, frameworks and other things that i'm studying:
+### Essas são algumas linguagens, frameworks e outras coisas que estou estudando no momento!
 
 <div style="display: inline_block"><br/>
   <img aling="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
